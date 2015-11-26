@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="style.css"/>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="angular.js"></script>
+    <script type="text/javascript" src="angular-animate.min.js"></script>
+    <script type="text/javascript" src="TweenMax.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+</head>
+<body>
+
+<div class="container" ng-app="app" ng-controller="MainCtrl">
+    <div class="slideshow-wrap">
+        <!--<div class="container slider">-->
+            <!--<img ng-repeat="slide in slides" class="slide" ng-src="{{slide.image}}">-->
+        <!--</div>-->
+
+
+        <div class="slide slider-1">
+            <img src="img01.jpg" alt=""/>
+        </div>
+        <div class="slide slider-2">
+            <img src="img03.jpg" alt=""/>
+        </div>
+        <div class="slide slider-3">
+            <img src="img04.jpg" alt=""/>
+        </div>
+
+        <ul class="triggers">
+            <li>1</li>
+            <li>2</li>
+            ...
+        </ul>
+        <span class="control prev">Prev</span>
+        <span class="control next">Next</span>
+    </div>
+</div>
+
+</body>
+</html>
