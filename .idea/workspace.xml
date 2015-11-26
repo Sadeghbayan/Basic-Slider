@@ -7,7 +7,7 @@
     <file path="/index.html" changelist="3cefc62c-9456-4626-9bb3-47046a1ff223" time="1448538493660" ignored="false" />
     <file path="/dummy.xml" changelist="3cefc62c-9456-4626-9bb3-47046a1ff223" time="1448537460183" ignored="false" />
     <file path="/style.css" changelist="3cefc62c-9456-4626-9bb3-47046a1ff223" time="1448555732638" ignored="false" />
-    <file path="/app.js" changelist="3cefc62c-9456-4626-9bb3-47046a1ff223" time="1448560045327" ignored="false" />
+    <file path="/app.js" changelist="3cefc62c-9456-4626-9bb3-47046a1ff223" time="1448566730205" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="16" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0">
+            <state line="36" column="0" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="16" selection-start="473" selection-end="473" vertical-scroll-proportion="0.33392859">
+            <state line="15" column="17" selection-start="562" selection-end="562" vertical-scroll-proportion="0.45698926">
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
@@ -159,7 +159,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -279,14 +279,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="16" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0">
+        <state line="36" column="0" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="473" selection-end="473" vertical-scroll-proportion="0.33392859">
+        <state line="15" column="17" selection-start="562" selection-end="562" vertical-scroll-proportion="0.45698926">
           <folding />
         </state>
       </provider>

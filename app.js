@@ -9,12 +9,22 @@ var app = angular.module('app', []);
 
         var makeSlider = function(){
             slider.eq(i).fadeOut(transition_speed, function(){
-                
+                i +=1;
+                if(i === sliderLen){
+                    i = 0;
+
+                }
+                slider.eq(i).fadeIn(transition_speed);
+//
             })
         }
-        slider.eq(1).css({'background-color':'#343434'})
-        console.log(slider.eq(1));
-        console.log(slider[1]);
+
+        slider.not(':first').hide();
+//        makeSlider();
+        setInterval(makeSlider,5000);
+//        slider.eq(1).css({'background-color':'#343434'})
+//        console.log(slider.eq(1));
+        console.log(slider.not(':first'));
 
 
     });
